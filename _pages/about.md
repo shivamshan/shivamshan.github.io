@@ -21,3 +21,5 @@ Prior to my current role, I completed my B.Tech in Electrical and Electronics En
 
 My research interests broadly lie in the intersection of NLP and efficiency, and I am passionate about exploring ways to make language technologies more accessible and effective.
 
+<div class="publications">
+{% bibliography %}
