@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Microsoft Research</a>
+subtitle: <a href='#'>Research Fellow, Microsoft Research</a>
 
 profile:
   align: right
