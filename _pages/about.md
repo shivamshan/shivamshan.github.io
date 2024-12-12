@@ -6,7 +6,7 @@ subtitle: <a href='#'>Microsoft Research</a>
 
 profile:
   align: right
-  image: shiavm.jpg
+  image: shivam.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
