@@ -107,6 +107,7 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
+                  {% if p.permalink contains 'cv' %}{% assign url = 'assets/pdf/Shivam_Shandilya_CV.pdf' %} {% else %}{% assign url = p.url %}{% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
                     {% if page.url contains p.url %}
